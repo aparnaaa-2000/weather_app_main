@@ -8,6 +8,7 @@ import Temperature from './components/Temperature';
 import Navbar from './components/Navbar';
 import Days from './components/Days'
 import Home from './pages/Home';
+
 import Main from './components/Main';
 
 
