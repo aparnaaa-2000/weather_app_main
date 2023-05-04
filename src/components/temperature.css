@@ -1,0 +1,22 @@
+.containerTemperature{
+    background-color: rgb(99, 99, 129,0.3);
+    color: white;
+    height: 9rem;
+    width: 38rem;
+    /* text-align: center; */
+    /* height: 20rem;
+    width: 60rem; */
+    /* padding-left: 2rem; */
+}
+/* .sunrise{
+    padding-left: 50rem;
+} */
+/* .sun{
+    padding-left: 2rem;
+} */
+/* .sunset{
+    padding-left: 50rem;
+} */
+.sun2{
+    color: red;
+}
